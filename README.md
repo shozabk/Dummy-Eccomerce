@@ -24,6 +24,8 @@ Before running the application, make sure you have Node.js and npm installed on 
     npm install
    ```
 
+   ## IOS
+
 3. For iOS, navigate to the `ios` folder and install the CocoaPods dependencies:
     ```bash
     cd ios
@@ -36,4 +38,9 @@ Before running the application, make sure you have Node.js and npm installed on 
    cd ..
    npx react-native run-ios
    ```
+### Android
 
+5. Return to the project root and run the application:
+   ```bash
+   npx react-native run-android
+   ```
